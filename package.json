@@ -1,0 +1,25 @@
+{
+  "name": "web-speech-colours-game",
+  "version": "1.0.0",
+  "description": "App based on Wes Bos Beginner Javascript course",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickenfoot88/web-speech-colours-game.git"
+  },
+  "author": "Adel Ismagilov",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 chrome versions"
+  ],
+  "bugs": {
+    "url": "https://github.com/chickenfoot88/web-speech-colours-game/issues"
+  },
+  "homepage": "https://github.com/chickenfoot88/web-speech-colours-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
