@@ -4,7 +4,8 @@
   "description": "App based on Wes Bos Beginner Javascript course",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
